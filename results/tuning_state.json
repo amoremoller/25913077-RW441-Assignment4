@@ -1,0 +1,24 @@
+{
+  "selected": {
+    "criterion": "entropy",
+    "max_features": 48,
+    "min_samples_leaf": 1,
+    "max_depth": null,
+    "ccp_alpha": 0.0,
+    "class_weight": null
+  },
+  "size_reference": {
+    "smallest_sufficient_size": 200,
+    "f1_at_tuning_size": 0.5630407041484415,
+    "f1_at_max_size": 0.5654906457706692
+  },
+  "final_config": {
+    "criterion": "entropy",
+    "max_features": 48,
+    "min_samples_leaf": 1,
+    "max_depth": null,
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "n_estimators": 75
+  }
+}

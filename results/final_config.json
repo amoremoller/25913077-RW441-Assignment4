@@ -1,0 +1,9 @@
+{
+  "criterion": "entropy",
+  "max_features": 48,
+  "min_samples_leaf": 1,
+  "max_depth": null,
+  "ccp_alpha": 0.0,
+  "class_weight": null,
+  "n_estimators": 75
+}

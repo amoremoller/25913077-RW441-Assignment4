@@ -1,0 +1,7 @@
+networkTraffic.csv
+__pycache__/
+*.pyc
+.DS_Store
+report/*.aux
+report/*.log
+report/*.out
